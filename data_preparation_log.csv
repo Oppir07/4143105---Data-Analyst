@@ -1,0 +1,3 @@
+sumber,format_asal,jumlah_baris,jumlah_kolom,missing_value_ditemukan,duplikat_ditemukan,isu_format_ditemukan,rencana_penanganan
+Open-Meteo API,JSON (bersarang per jam),216,5,0,0,"nama kolom mencampur nilai & satuan (suhu_c, kelembapan_persen)",pisahkan nilai dan satuan pada Praktikum 2
+Books to Scrape (scraping),HTML,100,4,0,0,"harga bersimbol mata uang (string), rating berupa kata, ketersediaan berupa kalimat","parsing harga ke angka, mapping rating ke angka, ketersediaan ke boolean pada Praktikum 2"
